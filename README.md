@@ -1,0 +1,7 @@
+# Facility Tool - Backend (JAVA Spring Boot)
+
+## Samenvatting
+In team hebben we een platform ontwikkeld dat beschikbaar is op diverse toestellen zodat de medewerkers van AP op een efficiënte en makkelijke manier verschillende defecten kunnen melden. Via dit platform kunnen er ook opdrachten, zoals een lokaal schilderen, een lokaal herinrichten etc. gegeven worden. Het doel van het platform is om zulke meldingen beter op te kunnen volgen als administrator en er voor zorgen dat er geen informatie verloren gaat. Dit op een zo efficiënt mogelijke manier. Het platform is toegankelijk zijn voor iedere AP-medewerker. 
+
+## Werking
+Werknemers zullen een defect of opdracht kunnen melden via de applicatie. De administrator, die tevens ook diensthoofd is, zal dan deze melding kunnen toewijzen aan een facilitaire medewerker. Hierna krijgt deze bevoegde persoon een melding in zijn lijst van opdrachten die hij dient op te lossen. Als er een opdracht niet duidelijk is kan de werknemer meer informatie vragen via de applicatie aan de admin. Nadat de opdracht uitgevoerd is, kan de facilitaire medewerker de status van de opdracht veranderen waardoor deze wordt gearchiveerd. Gebruikers kunnen elke melding terugvinden in het archief zodat men kan zien welke defecten vaak voorkomen en dergelijke.
