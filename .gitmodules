@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = ../facilitytoolionic.git
+[submodule "facilitytoolionic"]
+	path = facilitytoolionic
+	url = ssh://git@gitlab.apstudent.be:8081/2ti_project_informatica_2019_2020/team-9/facilitytoolionic.git
